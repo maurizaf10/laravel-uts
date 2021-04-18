@@ -8,7 +8,7 @@
         @endif
             <div class="row ">
                 <div class="col-6 mb-1">
-                    <h2>Data Pegawai</h2>                
+                    <h3>Data Pegawai</h3>                
                 </div>
                 <div class="col-6">
                     <!-- Button trigger modal -->
@@ -16,8 +16,8 @@
                     Tambah Data Pegawai
                     </button>
                 </div>
-                <table class="table table-hover">
-                    <tr>
+                <table class="table table-hover table-striped">
+                    <tr class="thead-dark">
                         <th>NIP</th>
                         <th>NAMA PEGAWAI</th>
                         <th>ALAMAT</th>
